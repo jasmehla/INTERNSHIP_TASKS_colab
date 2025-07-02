@@ -22,10 +22,5 @@ This repository contains my ongoing internship work in **Data Analysis and Visua
 
 I’ll keep updating this repository with additional tasks as I complete them during my internship. Stay tuned!
 
----
-
-## 🔗 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/JASMEEN MEHLA)
 - 
 
