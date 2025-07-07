@@ -17,6 +17,13 @@ This repository contains my ongoing internship work in **Data Analysis and Visua
 - Visualized survival trends by gender, class, and age
 - Plotted heatmaps, countplots, and histograms
 
+### 🔹 Task 03 – Bank Marketing Decision Tree Classifier
+- Loaded and preprocessed the Bank Marketing dataset from UCI
+- Encoded categorical variables and target label
+- Trained a Decision Tree Classifier to predict term deposit subscription
+- Evaluated model using accuracy score, confusion matrix & classification report
+- Visualized the decision tree using plot_tree()
+
 
 ## 🚧 More Tasks Coming Soon...
 
