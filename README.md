@@ -24,10 +24,11 @@ This repository contains my ongoing internship work in **Data Analysis and Visua
 - Evaluated model using accuracy score, confusion matrix & classification report
 - Visualized the decision tree using plot_tree()
 
+### 🔹 Task 04 – US Accidents Dataset Analysis
 
-## 🚧 More Tasks Coming Soon...
-
-I’ll keep updating this repository with additional tasks as I complete them during my internship. Stay tuned!
+-Cleaned and preprocessed the US Accidents dataset (March 2023)
+-Extracted time-based features like hour, day of week, and month
+-Analyzed accident trends by time, weather, and location
 
 - 
 
